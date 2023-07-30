@@ -1,0 +1,8 @@
+chromadb
+pypdf
+langchain==0.0.225
+accelerate
+transformers
+sentence_transformers
+chainlit
+chroma-migrate
